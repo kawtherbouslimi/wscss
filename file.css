@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+
+.header {
+  border-style: solid;
+  border-color: red;
+  background-color: pink;
+}
+.main {
+  border-style: solid;
+  border-color: blue;
+}
+.foter {
+  border-style: solid;
+  border-color: black;
+}
+label {
+  color: white;
+}
+#bouslimi {
+  background-color: red;
+}
+#nom {
+  background-color: brown;
+}
+#about > p,
+h2 {
+  color: aliceblue;
+}
